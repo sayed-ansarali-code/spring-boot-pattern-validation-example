@@ -20,7 +20,6 @@ This project is spring boot application that implements custom validator annotat
    - test.west@test
      - http://localhost:8080/validate/email?strEmail=test.west@test
 
-
 [^1]: My reference.
 [^2]: Every new line should be prefixed with 2 spaces.  
   This allows you to have a footnote with multiple lines.
