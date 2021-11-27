@@ -1,5 +1,5 @@
 # spring-boot-pattern-validation-example
-This project is spring boot application that implements custom validator annotations ot validate dates and emails more restrictively.
+This project is spring boot application that implements custom validator annotations to validate dates and emails more restrictively.
 
 ## Sample Requests
 ### Date Validation
